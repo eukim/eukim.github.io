@@ -131,7 +131,7 @@
 
     p
     {
-        font-size: 17.5px;
+        font-size: 20px;
         line-height: 2em;
     }
 
@@ -143,7 +143,7 @@
 
     .about_me_link
     {
-        font-size: 17.5px;
+        font-size: 20px;
         line-height: 2em;
         text-decoration: none;
         color: #6a5acd;
@@ -250,19 +250,19 @@
 
     .item_title
     {
-        font-size: 17.5px;
+        font-size: 22.5px;
         line-height: 2em;
     }
 
     .item_date
     {
-        font-size: 15px;
+        font-size: 20px;
         line-height: 2em;
     }
 
     .item_description
     {
-        font-size: 15px;
+        font-size: 20px;
         line-height: 2em;
         padding: 1em;
     }
@@ -276,12 +276,12 @@
 
     .item_link
     {
-        font-size: 20px;
+        font-size: 25px;
         line-height: 2em;
         text-decoration: none;
         background-color: #6a5acd;
         border-radius: 30px;
-        padding: 1vh;
+        padding: 1.5vh;
         color: #FFFFFF;
     }
 
