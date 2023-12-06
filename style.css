@@ -163,7 +163,7 @@
         margin-bottom: 35px;
     }
 
-    #entertainment
+    #music
     {
         top: 35px;
         position: relative;
@@ -288,6 +288,23 @@
     .item_link:hover
     {
         background-color: #9d93de;
+        text-decoration: underline;
+    }
+
+    .item_na
+    {
+        font-size: 25px;
+        line-height: 2em;
+        text-decoration: none;
+        background-color: #808080;
+        border-radius: 30px;
+        padding: 1.5vh;
+        color: #FFFFFF;
+    }
+
+    .item_na:hover
+    {
+        background-color: #b5b5b5;
         text-decoration: underline;
     }
 
@@ -470,7 +487,7 @@
         margin-bottom: 35px;
     }
 
-    #entertainment
+    #music
     {
         top: 35px;
         position: relative;
@@ -595,6 +612,23 @@
     .item_link:hover
     {
         background-color: #9d93de;
+        text-decoration: underline;
+    }
+
+    .item_na
+    {
+        font-size: 20px;
+        line-height: 2em;
+        text-decoration: none;
+        background-color: #808080;
+        border-radius: 30px;
+        padding: 1vh;
+        color: #FFFFFF;
+    }
+
+    .item_na:hover
+    {
+        background-color: #b5b5b5;
         text-decoration: underline;
     }
 
