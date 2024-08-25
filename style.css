@@ -11,6 +11,7 @@
         -khtml-user-select: none; /* Konqueror HTML */
         -moz-user-select: none; /* Firefox */
         -ms-user-select: none; /* Internet Explorer/Edge */
+        background-color: #F5F5F5;
     }
     
     img
@@ -64,7 +65,7 @@
         background-color: #6a5acd;
         border-radius: 30px;
         padding: 1vh;
-        color: #FAFAFA;
+        color: #F5F5F5;
         display: block;
         text-align: center;
     }
@@ -100,11 +101,11 @@
         left: 0;
         right: 0;
         text-align: center;
-        background-color: #FAFAFA;
         width: 300px;
         height: 60px;
         border-radius: 30px;
         line-height: 55px;
+        background-color: #F5F5F5;
     }
 
     #about_me
@@ -230,13 +231,14 @@
         display: block;
         left: 0;
         right: 0;
+        background-color: #F5F5F5;
     }
 
     .item
     {
         padding: 7.5%;
         width: 75%;
-        background-color: #FAFAFA;
+        background-color: #FFFFFF;
         border-radius: 30px;
         display: block;
         margin-left: auto;
@@ -282,7 +284,7 @@
         background-color: #6a5acd;
         border-radius: 30px;
         padding: 1.5vh;
-        color: #FAFAFA;
+        color: #F5F5F5;
     }
 
     .item_link:hover
@@ -299,7 +301,7 @@
         background-color: #808080;
         border-radius: 30px;
         padding: 1.5vh;
-        color: #FAFAFA;
+        color: #F5F5F5;
     }
 
     .item_na:hover
@@ -344,6 +346,7 @@
         -khtml-user-select: none; /* Konqueror HTML */
         -moz-user-select: none; /* Firefox */
         -ms-user-select: none; /* Internet Explorer/Edge */
+        background-color: #F5F5F5;
     }
 
     img
@@ -426,11 +429,11 @@
         left: 0;
         right: 0;
         text-align: center;
-        background-color: #FAFAFA;
         width: 300px;
         height: 60px;
         border-radius: 30px;
         line-height: 55px;
+        background-color: #F5F5F5;
     }
 
     #about_me
@@ -446,8 +449,8 @@
     {
         background-size: cover;
         background-position: 0px center;
-        width: 500px;
-        height: 500px;
+        width: 580px;
+        height: 580px;
         border-radius: 100%;
         margin: auto;
         display: block;
@@ -550,17 +553,16 @@
     .speech
     {
         padding: 4vh;
-        background-color: #FAFAFA;
         border-radius: 30px;
         width: 100%;
         left: 0;
         right: 0;
+        background-color: #F5F5F5;
     }
 
     .item
     {
         padding: 2vh;
-        background-color: #FAFAFA;
         border-radius: 30px;
         width: 100%;
         margin-left: auto;
@@ -570,6 +572,7 @@
         position: relative;
         text-align: center;
         display: block;
+        background-color: #FFFFFF;
     }
 
     .item_title
@@ -606,7 +609,7 @@
         background-color: #6a5acd;
         border-radius: 30px;
         padding: 1vh;
-        color: #FAFAFA;
+        color: #F5F5F5;
     }
 
     .item_link:hover
@@ -623,7 +626,7 @@
         background-color: #808080;
         border-radius: 30px;
         padding: 1vh;
-        color: #FAFAFA;
+        color: #F5F5F5;
     }
 
     .item_na:hover
