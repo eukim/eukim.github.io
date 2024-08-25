@@ -62,7 +62,7 @@
         margin-right: 5%;
         text-decoration: none;
         line-height: 2em;
-        color: #5C4CB3;
+        background-color: #5C4CB3;
         border-radius: 30px;
         padding: 1vh;
         color: #F5F5F5;
@@ -226,8 +226,8 @@
 
     .speech
     {
-        padding-left: 7.5%;
-        padding-right: 7.5%;
+        padding-left: 5%;
+        padding-right: 5;
         display: block;
         left: 0;
         right: 0;
